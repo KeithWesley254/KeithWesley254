@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Keith Wesley</h1>
 <h3 align="center">A passionate software engineer from Kenya</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/02/27/86/022786a82bd36842eae96494944019e7.gif"/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/13/57/f9135788c6aeeec438abb986f283936c.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keithwesley254&label=Profile%20views&color=0e75b6&style=flat" alt="keithwesley254" /> </p>
 
