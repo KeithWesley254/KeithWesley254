@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Keith Wesley</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate software engineer from Kenya</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/02/27/86/022786a82bd36842eae96494944019e7.gif"/>
 
