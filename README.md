@@ -31,10 +31,6 @@
 
 👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
 
-### Interested ?
-
-📫 Reach me on **keithwesley187@gmail.com**
-
 <h1>My experience</h1>
 
 <!-- EXPERIENCE I -->
