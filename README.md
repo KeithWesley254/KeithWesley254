@@ -20,6 +20,63 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keithwesley254" alt="keithwesley254" /></a> </p>
 
+### My work
+
+🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
+<!-- OR -->
+🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
+
+<!-- TODO: Update at the end of every day with your  -->
+<!-- 🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)! -->
+
+👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
+
+### Interested ?
+
+📫 Reach me on **keithwesley187@gmail.com**
+
+<h1>My experience</h1>
+
+<!-- EXPERIENCE I -->
+<h2 align="left">Project Kujali</h2>
+
+<p align="right"><b>2023</b></p>
+
+<p>
+  Kujali is a financial manager that allows businesses to plan for their spending through financial forecasts, and then to track their actual expenditure against what was forecasted.
+</p>
+<p>
+  <!-- Add summary of your own contributions -->
+  I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
+</p>
+<br/>
+
+### My contributions
+
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+
+<h2 align="left">Project Elewa</h2>
+
+<p align="right"><b>2023</b></p>
+
+<p>
+  The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
+</p>
+<p>
+  <!-- Add summary of your own contributions -->
+  I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
+</p>
+<br/>
+
+<!-- Link in this table your actual contributions -->
+### My contributions
+
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/keith_wesley_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keith_wesley_" height="30" width="40" /></a>
