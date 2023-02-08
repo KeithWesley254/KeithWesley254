@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keithwesley254&label=Profile%20views&color=0e75b6&style=flat" alt="keithwesley254" /> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails and starting on low level languages**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KeithWesley254](https://github.com/KeithWesley254)
 
 - 📝 I regularly write articles on [https://medium.com/@keithwesley187](https://medium.com/@keithwesley187)
 
-- 💬 Ask me about **react, javascript, ruby**
+- 💬 Ask me about **React, Javascript, Ruby**
 
 - 📫 How to reach me **keithwesley187@gmail.com**
 
-- ⚡ Fun fact **I am really good at competitive video games**
+- ⚡ Fun fact **I will break it and see why it was working in the first place**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keithwesley254" alt="keithwesley254" /></a> </p>
 
